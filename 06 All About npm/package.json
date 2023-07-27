@@ -1,0 +1,14 @@
+{
+  "name": "lecture-6-all-about-package-json-file",
+  "version": "1.0.0",
+  "description": "This is node js tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohit",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}

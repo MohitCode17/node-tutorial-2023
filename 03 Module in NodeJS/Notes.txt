@@ -1,0 +1,33 @@
+What is Module in NodeJS ?
+
+Consider modules to be the same as JavaScript libraries. A set of functions you want to include in your application.
+
+👉 Local Modules
+
+Node.js comes with different predefined modules (e.g. http, fs, path, etc.) that we use and scale our project. We can define modules locally as Local Module. It consists of different functions declared inside a JavaScript object and we reuse them according to the requirement.
+
+Defining local module: Local module must be written in a separate JavaScript file. In the separate file, we can declare a JavaScript object with different properties and methods.
+
+
+👉 Core Module / Global Module / Built-in Module
+
+Every programming language have their basic features, like connect with DB, creating files, code processing, APIs calls, and this is called core module.
+
+NodeJS has a set of core modules which you can use without any further installation.
+Example: fs, http, path, buffer, os, event, stream etc.
+
+List of Core Module: https://www.w3schools.com/nodejs/ref_modules.asp
+
+
+➡️ Include Modules
+
+To include a module, use the require() function with the name of the module.
+
+var http = require('fs');
+
+Now Your application has access to the fs module.
+
+
+👉 Create Your Own Modules
+
+You can create your own modules, and easily include them in your application.

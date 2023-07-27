@@ -1,0 +1,1 @@
+This is sample text generated using fs module.

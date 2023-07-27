@@ -1,0 +1,34 @@
+NodeJS Console / REPL:-
+
+Node.js comes with virtual environment called REPL(Node shell).
+REPL stands for Read-Eval-Print-Loop. It is a quick and easy way to test simple Node.js/JavaScript code.
+
+To launch the REPL, open command prompt (in Windows) or terminal (in Mac or UNIX/Linux) and type "node".
+
+
+------------------------------------------------------------------------------------------------
+REPL Command				Description
+------------------------------------------------------------------------------------------------
+.help					    Display help on all the commands
+tab Keys				    Display the list of all commands.
+Up/Down Keys				See previous commands applied in REPL.
+.save filename				Save current Node REPL session to a file.
+.load filename				Load the specified file in the current Node REPL session.
+ctrl + c				    Terminate the current command.
+ctrl + c (twice)			Exit from the REPL.
+ctrl + d				    Exit from the REPL.
+.break					    Exit from multiline expression.
+.clear					    Exit from multiline expression.
+
+
+
+
+💯 INTERVIEW QUESTION
+
+1. Is console.log method same, when we write console.log is browser and in node terminal ❓
+
+Ans: No, because when we use console.log in chrome console window and print javascript code, it works because, it is function of the browser.
+but In node, we don't have any browser, so node js create internally module provides a simple debugging console.
+That is similar to the JavaScript console mechanism provided by web browsers.
+
+A Console class with methods such as console.log(), console.error(), and console.warn() that can be used to write to any Node.js stream.

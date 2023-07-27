@@ -1,0 +1,35 @@
+What is NodeJS ?
+
+➡️ Node.js is an open-source server side runtime environment built on Chrome's V8 JavaScript engine, It is not a programming language.
+
+➡️ It provides an event driven, non-blocking (asynchronous) I/O and cross-platform runtime environment.
+
+➡️ Node.js can be used to build different types of applications such as command line application, web application, real-time chat application, REST API server etc.
+
+
+History and More:
+
+➡️ Node.js was written and introduced by Ryan Dahl in 2009.
+➡️ First release May 27, 2009
+➡️ Current Version: 18.12.1 (May be differ in future)
+➡️ Written in C, C++, JavaScript 
+
+
+Why do we use Node ?
+
+➡️ NodeJS mostly used for API, So we can connect the same database with web App, Mobile App.
+➡️ Node is easy to understand who know JavaScript
+➡️ Node is super-fast for APIs
+
+
+Advantages of Node.js :
+
+➡️ Node.js is an open-source framework under MIT license. (MIT license is a free software license originating at the Massachusetts Institute of Technology).
+
+➡️ Uses JavaScript to build entire server side application.
+
+➡️ Lightweight framework that includes bare minimum modules. Other modules can be included as per the need of an application.
+
+➡️ Asynchronous by default. So it performs faster than other frameworks.
+
+➡️ Cross-platform framework that runs on Windows, MAC or Linux

@@ -1,0 +1,26 @@
+What is NPM ?
+
+Npm stands for Node Package Manager. It is a package manager for the Node JavaScript platform. Npm is known as the world's largest software registry. Open-source developers all over the world use npm to publish and share their source code.
+
+We can use NPM packages in our files. Basic difference between Node core module and NPM modules that they created by third parties.
+
+
+What is Package.Json file ?
+
+The package. json file is the heart of any Node project. It records important metadata about a project which is required before publishing to NPM, and also defines functional attributes of a project that npm uses to install dependencies, run scripts, and identify the entry point to our package.
+
+
+Create Package.Json File:-
+
+- npm init: <initializer> can be used to set up a new or existing npm package
+- package name: Anything
+- version: Default Version 
+- description: Anything
+- entry point: root file (index.js)
+- git repository:
+- keyword: 
+- author: Anyone
+
+
+🤔 Install NPM Package:
+- Open Terminal and run cmd : npm i <package-name>
